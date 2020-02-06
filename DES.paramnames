@@ -1,0 +1,29 @@
+omega_m     \Omega_m
+h0          H_0
+omega_b     \Omega_b
+n_s         n_s
+a_s         A_s
+omnuh2      \Omega_{\nu} h^2
+b1          {\rm bin bias 1}
+b2          {\rm bin bias 2}
+b3          {\rm bin bias 3}
+b4          {\rm bin bias 4}
+b5          {\rm bin bias 5}
+m1          c^{\rm shear}_1
+m2          c^{\rm shear}_2
+m3          c^{\rm shear}_3
+m4          c^{\rm shear}_4
+Aia         A_{\rm IA}
+alphaia     \alpha_{\rm IA}
+wl_bias1    b^{\rm WL}_1
+wl_bias2    b^{\rm WL}_2
+wl_bias3    b^{\rm WL}_3
+wl_bias4    b^{\rm WL}_4
+lens_bias1  b^{\rm Lens}_1
+lens_bias2  b^{\rm Lens}_2
+lens_bias3  b^{\rm Lens}_3
+lens_bias4  b^{\rm Lens}_4
+lens_bias5  b^{\rm Lens}_5
+sigma_8*    \sigma_8
+ww  ww
+logL  logL
